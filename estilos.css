@@ -1,0 +1,14 @@
+body{
+    background:palevioletred;
+    background:url("collaboration-clipart-marketing-6.jpg") no-repeat top center;
+    background-size:800px 600px
+}
+.texto{
+    background: rgba(10, 213, 210, 0.881);
+    boder:solid;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:200%;
+    margin:0 auto;
+    padding:2em ;
+    width: 350px;
+}
